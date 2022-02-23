@@ -1,0 +1,9 @@
+name: pygames
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.7
+  - pip:
+    - pygame==2.0.1
+
