@@ -1,9 +1,6 @@
-A [Pong](https://en.wikipedia.org/wiki/Pong) clone made with python and pygame 
+A simple [Pong](https://en.wikipedia.org/wiki/Pong) like game
 
 ![Screen shot of game play](./assets/Gameplay.png "Gameplay")
-
-# Requirements
-Requires python 3.7 or higher, and pygame 2.x to run the python script.
 
 # Features
 - AI Opponent
