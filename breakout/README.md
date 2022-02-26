@@ -1,15 +1,10 @@
-A [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) clone made with python and pygame 
+[Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game))
 
 From wikipedia:
 >Breakout begins with eight rows of bricks, with each two rows a different color. The color order from the bottom up is yellow, green, orange and red. Using a single ball, the player must knock down as many bricks as possible by using the walls and/or the paddle below to ricochet the ball against the bricks and eliminate them.
 
 
 ![Screen shot of game play](./assets/Gameplay.png "Gameplay")
-
-# Requirements
-
-Requires python 3.7 or higher, and pygame 2.x to run the python script.
-
 
 # FEATURES
 ### Scoring
