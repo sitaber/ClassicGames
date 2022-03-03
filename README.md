@@ -1,24 +1,33 @@
 # Classic Games
 
-This repository contains clones of Pong, Breakout, and Tic-Tac-Toe that were made with python and pygame
+This repository contains clones of Pong, Breakout, and Tic-Tac-Toe that were made with `python` and `pygame`
 
-## Dependencies
-To run the python scripts the following are required:
-- Python >= 3.9.7 
-- Pygame >= 2.0.1 
-- Numpy >= 1.20.3
+## Installation
+You need to have `pygame` and _(obviously)_ `python` installed. 
 
-
-## To Play
-Once you have resolved any dependencies and downloaded the repo, navigate via the command line to the folder containing the game you wish to play 
-
-For example, from the top level directory of the repository
-
-```bash
-cd tictactoe
-python tictactoe.py
-```
-
-__NOTE__: games will not load correct assets if run from their repsective folders
+### For `Ubuntu/Debian`
+- Install `python`, `pygame`, and all the necessary dependencies. The following is the easiest method:
+  ```bash
+  $ sudo apt-get install python3-pygame
+  ```
+- Clone or Download the repo
+    - __Clone__
+    ```bash
+    $ git clone https://github.com/sitaber/ClassicGames.git 
+    ```
+    - __Download__
+        - :arrow_down: [Download](https://github.com/sitaber/ClassicGames/archive/refs/heads/main.zip) the repo and unzip
+        
+- Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> to open the shell if you are on `GNU/Linux` based systems and type
+  ```bash
+  ## navigate to the unzipped folder or cloned repo
+  $ cd /path/to/unzipped-cloned-repo
+  ```
+- Navigate to the folder containing the game you wish to play. For example, from the top level directory of the repository:
+  ```bash
+  $ cd tictactoe
+  $ python3 tictactoe.py
+  ```
+__NOTE__: games will not load correct assets if they are not run from their repsective folders
 
 __ENJOY!!__
