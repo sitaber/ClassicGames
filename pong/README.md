@@ -2,16 +2,20 @@ A simple [Pong](https://en.wikipedia.org/wiki/Pong) like game
 
 ![Screen shot of game play](./assets/Gameplay.png "Gameplay")
 
-# Features
+## Features
 - AI Opponent
 - Score Keeping – Must score 11 points and win by 2
-- Start pop-up - ‘Begin Game’
-- Win / Lose pop-up-  “You Won/Lost! - Play Again?”
-- Random start (‘coin flip’) for direction of ball
+- Start pop-up - `Click Box To Start Game`
+- Random start for direction of ball
+- Win / Lose pop-up- `Game Over Click Screen To Play Again`
 
-# How to Play
-Use the _W_ keyboard key to move paddle up
+## How to Play
+1. On the Intro Screen click `Click Box To Start Game`
+2. Use the keyboard to control the player paddle (left side of screen)
 
-Use the _S_ keyboard key to move paddle down
+| Control            | Button        |
+|--------------------|---------------|
+| Move Paddle Up     | <kbd>W</kbd>  |
+| Move Paddle Down   | <kbd>S</kbd>  |
 
-
+3. Win or lose, you have option to play again. `Game Over Click Screen To Play Again`
