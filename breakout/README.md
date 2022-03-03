@@ -6,29 +6,31 @@ From wikipedia:
 
 ![Screen shot of game play](./assets/Gameplay.png "Gameplay")
 
-# FEATURES
+## FEATURES
 ### Scoring
-- Yellow = 1 point
-- Green = 3 points
-- Orange = 5 points
-- Red = 7 points
+| Brick Color | Points |
+|-------------|--------|
+| Yellow      | 1      |
+| Green       | 3      |
+| Orange      | 5      |
+| Red         | 7      |
 
 ### Mechanics
 - Three Lives
 - Paddle shrinks by 1/2 after hitting top wall
 - Two "levels"
-- Ball speed increases: after four hits, after twelve hits, and after making contact with orange and red rows
+- Ball speed increases: after __four hits__, after __twelve hits__, and after **making contact with orange and red rows**
 
-# How to Play
+## How to Play
+1. Press <kbd>SPACE</kbd> to launch ball
+2. Use the keyboard to control the paddle
 
-Press _SPACE_ to launch ball
+| Control      | Button              |
+|--------------|---------------------|
+| Move Left    | <kbd>A</kbd>        |
+| Move right   | <kbd>D</kbd>        |
+| Launch Ball  | <kbd>spacebar</kbd> |
 
-Use the _A_ keyboard key to move paddle left
-
-Use the _D_ keyboard key to move paddle right
-
-Try to beat both "levels"!
-
-
+3. Try to beat both "levels"!
 
 
