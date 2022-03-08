@@ -1,8 +1,11 @@
-# Classic Games
+# Python Games
 
-This repository contains clones of Pong, Breakout, and Tic-Tac-Toe that were made with `python` and `pygame`
+A collection of games made with Python and Pygame. Currently contains clones of: 
+- [Pong](https://github.com/sitaber/Python-Games/tree/main/pong) 
+- [Breakout](https://github.com/sitaber/Python-Games/tree/main/breakout)
+- [Tic-Tac-Toe](https://github.com/sitaber/Python-Games/tree/main/tictactoe)
 
-## Installation
+## Running the Games
 You need to have `pygame` and _(obviously)_ `python` installed. 
 
 ### For `Ubuntu/Debian`
@@ -13,10 +16,10 @@ You need to have `pygame` and _(obviously)_ `python` installed.
 - Clone or Download the repo
     - __Clone__
     ```bash
-    $ git clone https://github.com/sitaber/ClassicGames.git 
+    $ git clone https://github.com/sitaber/Python-Games.git 
     ```
     - __Download__
-        - :arrow_down: [Download](https://github.com/sitaber/ClassicGames/archive/refs/heads/main.zip) the repo and unzip
+        - :arrow_down: [Download](https://github.com/sitaber/Python-Games/archive/refs/heads/main.zip) the repo and unzip
         
 - Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> to open the shell if you are on `GNU/Linux` based systems and type
   ```bash
