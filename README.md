@@ -7,7 +7,7 @@ A collection of app made with Python and Pygame. Currently contains of:
     - A clone of [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game))
 - [Tic-Tac-Toe](https://github.com/sitaber/python-games/tree/main/tictactoe)
     - Tic Tac Toe with an AI opponent 
-- [wall-clock]
+- [wall-clock](https://github.com/sitaber/python-apps/tree/main/wall-clock)
     - A basic app the displays a wall clock
 
 ## Running the Games
