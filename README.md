@@ -1,9 +1,14 @@
 # Python Games
 
-A collection of games made with Python and Pygame. Currently contains clones of: 
-- [Pong](https://github.com/sitaber/python-games/tree/main/pong) 
+A collection of app made with Python and Pygame. Currently contains of: 
+- [Pong](https://github.com/sitaber/python-games/tree/main/pong)
+    - A clone of [Pong](https://en.wikipedia.org/wiki/Pong)
 - [Breakout](https://github.com/sitaber/python-games/tree/main/breakout)
+    - A clone of [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game))
 - [Tic-Tac-Toe](https://github.com/sitaber/python-games/tree/main/tictactoe)
+    - Tic Tac Toe with an AI opponent 
+- [wall-clock]
+    - A basic app the displays a wall clock
 
 ## Running the Games
 You need to have `pygame` and _(obviously)_ `python` installed. 
