@@ -10,21 +10,21 @@ A collection of app made with Python and Pygame. Currently contains of:
 - [wall-clock](https://github.com/sitaber/python-apps/tree/main/wall-clock)
     - A basic app the displays a wall clock
 
-## Running the Games
+## Running the Apps
 You need to have `pygame` and _(obviously)_ `python` installed. 
 
 ### For `Ubuntu/Debian`
-- Install `python`, `pygame`, and all the necessary dependencies. The following is the easiest method:
+- Install `python`, `pygame`, and all the necessary dependencies. The following is one of the easiest method:
   ```bash
   $ sudo apt-get install python3-pygame
   ```
 - Clone or Download the repo
     - __Clone__
     ```bash
-    $ git clone https://github.com/sitaber/python-games.git 
+    $ git clone https://github.com/sitaber/python-apps.git 
     ```
     - __Download__
-        - :arrow_down: [Download](https://github.com/sitaber/python-games/archive/refs/heads/main.zip) the repo and unzip
+        - :arrow_down: [Download](https://github.com/sitaber/python-apps/archive/refs/heads/main.zip) the repo and unzip
         
 - Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> to open the shell if you are on `GNU/Linux` based systems and type
   ```bash
